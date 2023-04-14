@@ -21,45 +21,53 @@ const PAGES_DATA = [
   {
     pageId: 1,
     sortId: 1,
+    title: "我的博客",
+    subtitle: "个人番",
+    url: "https://www.jonathanlv.com/",
+    icon: "https://www.jonathanlv.com/favicon.png"
+  },
+  {
+    pageId: 2,
+    sortId: 1,
+    title: "我的笔记本",
+    subtitle: "",
+    url: "https://www.jonathanlv.com/",
+    icon: "https://www.jonathanlv.com/favicon.png"
+  },
+  
+  {
+    pageId: 3,
+    sortId: 1,
     title: "工具星导航",
     subtitle: "让你的生活更便捷",
     url: "https://guidestar.top/",
     icon: "https://guidestar.top/assets/images/favicon.png"
   },
   {
-    pageId: 2,
+    pageId: 4,
+    sortId: 1,
+    title: "工具星简易版",
+    subtitle: "",
+    url: "https://guidestar-simple.pages.dev/",
+    icon: "https://guidestar.top/assets/images/favicon.png"
+  },
+  {
+    pageId: 5,
+    sortId: 1,
+    title: "工具星极简版",
+    subtitle: "",
+    url: "https://soso-60w.pages.dev/",
+    icon: "https://guidestar.top/assets/images/favicon.png"
+  },
+  {
+    pageId: 6,
     sortId: 1,
     title: "壁纸",
     subtitle: "电脑壁纸",
     url: "https://wallpaper-8y1.pages.dev/",
     icon: ""
   }
-  {
-    pageId: 3,
-    sortId: 1,
-    title: "工具星简易版",
-    subtitle: "",
-    url: "https://guidestar-simple.pages.dev/",
-    icon: "https://guidestar.top/assets/images/favicon.png"
-  }
-  {
-    pageId: 4,
-    sortId: 1,
-    title: "工具星极简版",
-    subtitle: "",
-    url: "https://soso-60w.pages.dev/",
-    icon: "https://guidestar.top/assets/images/favicon.png"
-  }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
