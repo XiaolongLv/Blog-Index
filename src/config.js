@@ -4,7 +4,7 @@ const HOST = ""; // 线上服务器地址，如果不使用请留空
 
 const BLOG_NAME = "我的博客"; // 个人网站名字
 
-const BLOG_URL = ""; // 个人网站链接（请填写完整链接）
+const BLOG_URL = "notion-next-three-phi.vercel.app"; // 个人网站链接（请填写完整链接）
 
 const GITHUB = "https://github.com/XiaolongLv"; // 右上角 Github 图标链接，留空不显示
 
@@ -31,8 +31,8 @@ const PAGES_DATA = [
     sortId: 1,
     title: "我的笔记本",
     subtitle: "",
-    url: "https://www.jonathanlv.com/",
-    icon: "https://www.jonathanlv.com/favicon.png"
+    url: "notion-next-three-phi.vercel.app",
+    icon: ""
   },
   
   {
@@ -49,7 +49,7 @@ const PAGES_DATA = [
     title: "工具星简易版",
     subtitle: "",
     url: "https://guidestar-simple.pages.dev/",
-    icon: "https://guidestar.top/assets/images/favicon.png"
+    icon: ""
   },
   {
     pageId: 5,
@@ -57,7 +57,7 @@ const PAGES_DATA = [
     title: "工具星极简版",
     subtitle: "",
     url: "https://soso-60w.pages.dev/",
-    icon: "https://guidestar.top/assets/images/favicon.png"
+    icon: ""
   },
   {
     pageId: 6,
