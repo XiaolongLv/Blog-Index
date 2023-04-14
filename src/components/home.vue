@@ -23,7 +23,7 @@
       <div class="inner" style="cursor: pointer" @click="goToBlog">
         <img
           :class="['R_logo', { R_logo_top: flag }]"
-          src="../assets/logo.png"
+          src=""
         />
         <div :class="['hello', { hello_bottom: flag }]">
           <div>{{ slogan[i] }}</div>
