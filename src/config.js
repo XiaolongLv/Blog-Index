@@ -31,7 +31,7 @@ const PAGES_DATA = [
     sortId: 1,
     title: "我的笔记本",
     subtitle: "",
-    url: "notion-next-three-phi.vercel.app",
+    url: "https://notion-next-three-phi.vercel.app/",
     icon: ""
   },
   
