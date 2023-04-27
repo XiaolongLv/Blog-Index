@@ -34,7 +34,6 @@ const PAGES_DATA = [
     url: "https://notion-next-three-phi.vercel.app/",
     icon: ""
   },
-  
   {
     pageId: 3,
     sortId: 1,
@@ -66,6 +65,14 @@ const PAGES_DATA = [
     subtitle: "电脑壁纸",
     url: "https://wallpaper-8y1.pages.dev/",
     icon: ""
+  }
+  {
+    pageId: 7,
+    sortId: 1,
+    title: "今日热榜",
+    subtitle: "今日热榜",
+    url: "https://dailyhot-awr.pages.dev/",
+    icon: "https://dailyhot-awr.pages.dev/ico/favicon.png"
   }
 
   
