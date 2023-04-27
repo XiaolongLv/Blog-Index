@@ -65,7 +65,7 @@ const PAGES_DATA = [
     subtitle: "电脑壁纸",
     url: "https://wallpaper-8y1.pages.dev/",
     icon: ""
-  }
+  },
   {
     pageId: 7,
     sortId: 1,
