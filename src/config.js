@@ -73,6 +73,14 @@ const PAGES_DATA = [
     subtitle: "今日热榜",
     url: "https://dailyhot-awr.pages.dev/",
     icon: "https://dailyhot-awr.pages.dev/ico/favicon.png"
+  },
+  {
+    pageId: 8,
+    sortId: 1,
+    title: "我的音乐",
+    subtitle: "我的音乐",
+    url: "https://splayer-2fw.pages.dev/",
+    icon: "https://splayer-2fw.pages.dev/images/logo/favicon.svg"
   }
 
   
