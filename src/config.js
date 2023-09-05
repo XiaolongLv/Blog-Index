@@ -48,7 +48,7 @@ const PAGES_DATA = [
     title: "工具星简易版",
     subtitle: "",
     url: "https://guidestar-simple.pages.dev/",
-    icon: ""
+    icon: "https://guidestar.top/assets/images/favicon.png"
   },
   {
     pageId: 5,
@@ -56,7 +56,7 @@ const PAGES_DATA = [
     title: "工具星极简版",
     subtitle: "",
     url: "https://soso-60w.pages.dev/",
-    icon: ""
+    icon: "https://guidestar.top/assets/images/favicon.png"
   },
   {
     pageId: 6,
@@ -64,7 +64,7 @@ const PAGES_DATA = [
     title: "壁纸",
     subtitle: "电脑壁纸",
     url: "https://wallpaper-8y1.pages.dev/",
-    icon: ""
+    icon: "https://guidestar.top/assets/images/favicon.png"
   },
   {
     pageId: 7,
