@@ -81,6 +81,14 @@ const PAGES_DATA = [
     subtitle: "我的音乐",
     url: "https://splayer-2fw.pages.dev/",
     icon: "https://splayer-2fw.pages.dev/images/logo/favicon.svg"
+  } ,
+  {
+    pageId: 9,
+    sortId: 1,
+    title: "我的电影",
+    subtitle: "我的电影",
+    url: "https://webmovie-ten.vercel.app/",
+    icon: "https://webmovie-ten.vercel.app/favicon.ico"
   }
 
   
