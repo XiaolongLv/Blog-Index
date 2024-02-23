@@ -8,7 +8,7 @@ const BLOG_URL = "https://notion-next-three-phi.vercel.app/"; // 个人网站链
 
 const GITHUB = "https://github.com/XiaolongLv"; // 右上角 Github 图标链接，留空不显示
 
-const BACKGROUND_IMG_URL = "https://bing.icodeq.com"; // 背景图片url，默认为必应每日图片（第三方接口）
+const BACKGROUND_IMG_URL = "https://jx.iqfk.top/api/bing.php"; // 背景图片url，默认为必应每日图片（第三方接口）
 
 const SORT_DATA = [
   { sortId: 1, title: "我的网站" },
